@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signin>
+  <account>
+    <name1>ishu</name1>
+    <password>ishu</password>
+    <cpassword>ishu</cpassword>
+    <email>demo@gmail.com</email>
+  </account>
+  <account>
+    <name1>jingle</name1>
+    <password>1234</password>
+    <cpassword>1234</cpassword>
+    <email>demo@gmail.com</email>
+  </account>
+  <account>
+    <name1>ishu1</name1>
+    <password>122</password>
+    <cpassword>122</cpassword>
+    <email>ddd</email>
+  </account>
+  <account>
+    <name1>ishu111</name1>
+    <password>1234</password>
+    <cpassword>1234</cpassword>
+    <email>vftvtyvy</email>
+  </account>
+  <account>
+    <name1>ishu</name1>
+    <password>ishu</password>
+    <cpassword>ishu</cpassword>
+    <email>ishu</email>
+  </account>
+</signin>

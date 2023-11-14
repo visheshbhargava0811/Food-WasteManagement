@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signin>
+  <account>
+    <name1>Ishwarya</name1>
+    <reg>20BCI0213</reg>
+    <reg>20BCI0213</reg>
+    <university>VIT Vellore</university>
+    <phone>9898989898</phone>
+    <email>demo1@gmail.com</email>
+    <gender>on</gender>
+    <nationality>Indian</nationality>
+    <address>xxxx</address>
+  </account>
+  <account>
+    <name1>Jingle</name1>
+    <reg>21BCE2345</reg>
+    <reg>21BCE2345</reg>
+    <university>VIT Vellore</university>
+    <phone>8989898989</phone>
+    <email>demo3@gmail.com</email>
+    <gender>on</gender>
+    <nationality>Indian</nationality>
+    <address>zzzz</address>
+  </account>
+  <account>
+    <name1/>
+    <reg/>
+    <reg/>
+    <university>VIT Vellore</university>
+    <phone/>
+    <email/>
+    <gender>on</gender>
+    <nationality/>
+    <address/>
+  </account>
+</signin>
